@@ -4,7 +4,7 @@
 
 !!! Success "Almost here!"
 
-    November 7th-8th, 2024
+    2025
 
     University of Colorado Boulder
 
