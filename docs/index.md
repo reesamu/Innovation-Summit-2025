@@ -64,7 +64,7 @@ Encourage the co-production of environmental knowledge with communities that are
 
 
 ## Venue Information
-The FIRE-PLAN Community meeting will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
+The Innovation Summit will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
 The address is 4001 Discovery Dr, Boulder, CO 80303. Click [here](https://seec.colorado.edu/getting-here/directions) for directions to the SEEC Building.
 
 Click [here](https://seec.colorado.edu/system/pdfs/first_floor.pdf) for a map of the SEEC Building's 1st floor. The C120 auditorium is located at the main entrance, directly south of the [Triceratops](https://www.colorado.edu/today/2024/01/16/full-triceratops-skeleton-now-calls-boulder-home).
