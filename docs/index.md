@@ -1,14 +1,14 @@
 ![](./assets/esiil_content/Summit_Header.png)
 
-# Big Data for Environmental Resilience and Adaptation 
+# Environmental Tipping Points and Transformations 
 
 !!! Success "Almost here!"
 
-    2025
+    May 28-30, 2025
 
     University of Colorado Boulder
 
-Cultivating inclusive and collaborative wildland fire science: linking FIRE-PLAN teams 
+Welcome to the 2025 ESIIL Innovation Summit
 
 
 **Why Big Data for Environmental Resilience and Adaptation?**
@@ -59,37 +59,13 @@ If you have any questions about the study, please contact program evaluation Meg
 
 Thank you for your support.
 
-## Optional May 13th Activities
 
-**Explore Pearl Street:** In the heart of Boulder lies Pearl Street, a bustling thoroughfare adorned with restaurants, stores, and people-watching spots. This lively street has been the pulse of Boulder for over forty years. At the core of the historic downtown area, both locals and tourists leisurely walk along the brick-paved pedestrian path, relax on sunlit benches and restaurant terraces, indulge in shopping, and pause to enjoy the unique street performers that Boulder offers. While four blocks of Pearl Street are car-free, the vibrant atmosphere extends for blocks in every direction.
 
-**Walk Through Nature:** The Red Rocks Trail in Boulder is a captivating spot offering an inspiring short hike. Take the outer perimeter trail to create a roughly 1-mile loop around the sandstone formations that stand out in the park's center. For more adventure, extend your hike by 0.8 miles on the Anemone trail to the west, climbing an additional 400 feet to reach a hilltop with panoramic views of Boulder City, Red Rocks Park, and the Colorado Front Range.
 
-**Tour NEON:** Learn all about NEON! Located a 15-minute/0.5 mi walk from CU Boulder’s east campus is the National Science Foundation's National Ecological Observatory Network (NEON) headquarters. This continental-scale observatory network is operated by Battelle and designed to collect long-term open access ecological data to understand how U.S. ecosystems are changing. Join us on this inside tour of NEON, to learn about its past, present, and future endeavors.
-
-At 4 pm, ESIIL will host a **social hour** at the SEEC Cafe (4001 Discovery Drive, Boulder CO). Register for the event, mingle with other Summit attendees and enjoy some finger food and non-alcoholic drinks. 
-
-## RSVP for CO-WY Engine Event 
-The CO-WY Engine is excited to extend a warm invitation to you for a special Happy Hour event after day 2 of the ESIIL Innovation conference. Please join us to connect and unwind while participants learn about shaping the future of climate resilience in our region.
-
-**Event Details:**
-Date: Wednesday, May 15th
-Time: 6:00 PM to 8:00 PM
-Location: Hotel Boulderado, 2115 13th St, Boulder, CO 80302 
-
-**About the CO-WY Engine Partnership:**
-ESIIL is proud to partner with the CO-WY Engine, an initiative led by Innosphere Ventures and supported by the U.S. National Science Foundation. This partnership aims to drive innovation and spur economic growth in Colorado and Wyoming by developing and commercializing technologies that enhance climate resilience. Together, we are committed to enabling our communities, governments, and industries to effectively address the challenges posed by climate change.
-
-Discover more about how this initiative plans to transform our approach to sustainability and resilience at [www.co-wyengine.org](www.co-wyengine.org).
-
-We look forward to seeing you there and discussing how we can collectively work towards a more resilient future.
-
-RSVP: Please confirm your attendance by Monday, May 13th.
-
-[CLICK HERE TO RSVP](https://lp.constantcontactpages.com/ev/reg/qzrjc3c/lp/32583a69-fc4a-48ab-be9d-3f881224319f)
 
 ## Join our Slack Workspace
-We will be using Slack for communication before, during, and after the Summit. Please join our Slack Workspace [HERE](https://join.slack.com/t/slack-ekh3745/shared_invite/zt-2ffdma1ck-rdDxOfWeNIk29vhbCwpHzQ). 
+
+
 ## Event Photography
 We plan to take some photos of activities throughout the course of the week for use in internal and external publications. If you do not wish to have your image recorded for distribution, please inform the photographer and/or email Casey.Jenson@colorado.edu. By participating in ESIIL events, you are agreeing to the use of your photos unless you notify us in writing of your desire to opt out of being photographed. 
 ## Venue Information
