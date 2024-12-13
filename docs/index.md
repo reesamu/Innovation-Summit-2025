@@ -23,13 +23,14 @@ Encourage the co-production of environmental knowledge with communities that are
 ## Agenda
 
 **Detailed agenda coming soon.**
+We are still developing the agenda for the 2025 ESIIL Summit and will add more information soon. In the meantime, please check out (last year's agenda)[https://docs.google.com/document/d/1BXgUkbmGIVD12UDrnMlF9ERXN3jM1GW4/edit?usp=sharing&ouid=116923712774938340817&rtpof=true&sd=true] to get an idea of the types of activities that may occur at the Summit.
 
-### May 27
+**May 27**
 | Time             | Event                        | Location     |
 |------------------|------------------------------|--------------|
 | 12:00 PM - 3 PM  |  Leadership Program (by invite only)| SEEC |
 
-### May 28
+**May 28**
 | Time             | Event                        | Location     |
 |------------------|------------------------------|--------------|
 | 8:30 AM - 9:00 AM  |  Light breakfast and registration| SEEC Atrium |
@@ -42,7 +43,7 @@ Encourage the co-production of environmental knowledge with communities that are
 | 2:45 PM - 3:00 PM | Break | SEEC |
 | 3:00 PM - 5:00 PM | Summit Activities and Closing| SEEC Auritorium |
 
-### May 29
+**May 29**
 | Time             | Event                        | Location     |
 |------------------|------------------------------|--------------|
 | 8:30 AM - 9:00 AM  |  Light breakfast and registration| SEEC Atrium |
@@ -54,7 +55,7 @@ Encourage the co-production of environmental knowledge with communities that are
 | 2:45 PM - 3:00 PM | Break | SEEC |
 | 3:00 PM - 5:00 PM | Summit Activities and Closing| SEEC Auritorium |
 
-### May 30
+**May 30**
 | Time             | Event                        | Location     |
 |------------------|------------------------------|--------------|
 | 8:30 AM - 9:00 AM  |  Light breakfast and registration| SEEC Atrium |
