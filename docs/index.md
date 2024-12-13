@@ -8,17 +8,51 @@
 
     University of Colorado Boulder
 
-Welcome to the 2025 ESIIL Innovation Summit
+# Welcome to the 2025 ESIIL Innovation Summit
+The 2025 ESIIL Innovation Summit will focus on environmental tipping points and transformations, bringing together scientists, policymakers, data analysts, and other thought leaders to address some of the most urgent environmental challenges of our time. As multiple drivers of environmental change—such as climate change, land conversions, and altered disturbance regimes—continue to push ecosystems toward critical thresholds, we find ourselves facing environmental transformations that can have profound, often irreversible, impacts.
+These tipping points—also known as state changes, regime shifts, or type conversions—can occur gradually or suddenly, at varying scales, and significantly alter the ecosystems that sustain life on Earth. Understanding these past and future  transformations, and the social, cultural, and ecological contexts that shape them, is critical for predicting, managing, and mitigating their impacts on both nature and society.
+The 2025 Summit will offer a unique, data-driven opportunity to explore environmental tipping points and transformations through big data. You will work alongside a diverse group of peers to identify and understand the factors driving these changes and advance data-informed strategies for responding to them in ways that are socially and ecologically resilient.
 
+## Goals
+The goals of the 2025 ESIIL Innovation Summit are to: 
+- **Explore big data to understand environmental tipping points and transformations** by identifying data synthesis opportunities and utilizing ESIIL cloud-compute capabilities. 
+- **Promote best practices in ethical, open science** by supporting accessibility and usability of environmental data by all stakeholders. 
+- Champion ethical and equitable practices in environmental science, honoring data sovereignty, addressing bias, and encouraging the responsible use of AI. 
+- **Support diverse and inclusive teams** by establishing collaborations around data-inspired themes across different disciplines, sectors, career stages, backgrounds, and ways of knowing.
 
-**Why Big Data for Environmental Resilience and Adaptation?**
+## Summit Features
+- **Big Data and Cyberinfrastructure:** Access cutting-edge data analysis tools to explore tipping points including the **ecological and social dynamics** of systems that are undergoing transformation, or are poised to do so.
+- **Collaborative ‘Unconference’ Format:** This in-person Summit features a flexible, participant-driven format that allows attendees to shape their own experience. You will collaborate on projects that most inspire you, while fostering **dynamic interactions** and innovative solutions with others from diverse backgrounds and disciplines.
+- **Hands-On Learning and Strategy Development:** Participate in workshops and discussions aimed at developing **data-informed strategies** for addressing environmental transformations—focused on science for adaptive management, policy, and sustainable practices.
+- **Cultural Intelligence & Ethical Open Science:** Gain deeper insights into **cultural intelligence**, **ethical science practices**, and leadership in the rapidly evolving field of **environmental data science**.
 
+## What to Expect at the Summit
+The Summit will take the form of an **‘unconference’**, a flexible and interactive event designed to foster **collaboration and innovation**. Attendees are encouraged to participate in discussions, workgroups, and brainstorming sessions centered around the themes that interest them most. The format encourages **co-creation** of solutions, with ample opportunities for spontaneous interactions and cross-disciplinary teamwork.
 
-**The goals of the 2024 ESIIL Innovation Summit are to:**
-Explore big data for environmental resilience and adaptation by identifying data synthesis opportunities and utilizing ESIIL cloud-compute capabilities. 
-Promote best practices in ethical, open science, by supporting accessibility and usability of environmental data by all stakeholders. Champion ethical and equitable practices in environmental science, honoring data sovereignty and encouraging the responsible use of AI. 
-Support diverse and inclusive teams by establishing collaborations around data-inspired themes across different disciplines, sectors, career stages, and backgrounds.
-Encourage the co-production of environmental knowledge with communities that are experiencing significant environmental challenges.
+What past attendees had to say:
+- “The ESIIL Innovation Summit brings together people… to gain hands-on experience developing innovative science questions, big data tools, and working in a collaborative team.”
+- “Get ready to work hard and to grow. You’ll meet a lot of great people from diverse backgrounds.”
+- “A highlight of the Summit was the general atmosphere and community. There’s palpable excitement. The unconference format is different from a typical conference, so people don’t always know what to expect—but that’s part of what makes it so engaging.”
+
+## Training Opportunities
+To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. **Virtual opportunities may include:**
+- Technical trainings in cloud computing (CyVerse and Github)
+- Networking opportunities around the Summit theme
+- Leadership 
+- Cultural intelligence
+- Team science
+- Community and collaboration
+
+## Who Should Attend? 
+The **2025 ESIIL Innovation Summit** aims to bring together a diverse group of participants passionate about leveraging big data to enhance our understanding of environmental tipping points and transformations. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of ESIIL’s cyberinfrastructure, and fostering innovative solutions through collaborative, inclusive teams. Whether your expertise lies in ecosystem science, policy development, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors and backgrounds. We encourage applications from individuals across all career stages and disciplines. Applications are due by January 31, 2025, and participants will be selected through a review process.
+
+**Registration:** Accepted applicants will be notified via email by mid-February and will be required to confirm their attendance to the event within one week of acceptance. 
+
+**Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event.
+
+**Join us in 2025** for an innovative, impactful experience at the **ESIIL Innovation Summit**, where we will push the boundaries of knowledge and action to address the pressing challenges of environmental tipping points and transformation.
+
+**Applications are open!** Please [complete this application](https://docs.google.com/forms/d/e/1FAIpQLSf47NB8AJiEZDWMT9e30YK1mRafUA95A3ejp20HPzetzMhriw/viewform) by **January 31, 2025**.
 
 ## Agenda
 
