@@ -36,6 +36,7 @@ What past attendees had to say:
 
 ## Training Opportunities
 To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. **Virtual opportunities may include:**
+
 - Technical trainings in cloud computing (CyVerse and Github)
 - Networking opportunities around the Summit theme
 - Leadership 
@@ -58,46 +59,6 @@ The **2025 ESIIL Innovation Summit** aims to bring together a diverse group of p
 
 **Detailed agenda coming soon.**
 We are still developing the agenda for the 2025 ESIIL Summit and will add more information soon. In the meantime, please check out [last year's agenda](https://docs.google.com/document/d/1BXgUkbmGIVD12UDrnMlF9ERXN3jM1GW4/edit?usp=sharing&ouid=116923712774938340817&rtpof=true&sd=true) to get an idea of the types of activities that may occur at the Summit.
-
-2025 Innovation Summit tentative agenda:
-**May 27**
-| Time             | Event                        | Location     |
-|------------------|------------------------------|--------------|
-| 12:00 PM - 3 PM  |  Leadership Program (by invite only)| SEEC |
-
-**May 28**
-| Time             | Event                        | Location     |
-|------------------|------------------------------|--------------|
-| 8:30 AM - 9:00 AM  |  Light breakfast and registration| SEEC Atrium |
-| 9:00 AM - 10:45 PM  | Summit Activities | SEEC Auritorium  |
-| 10:45 AM - 11:00 AM | Break | SEEC |
-| 11:00 AM - 12:15 PM | Breakout Group Introductions | SEEC Auritorium  |
-| 12:15 PM - 12:30 PM | Group Photo | SEEC Atrium  |
-| 12:30 PM - 1:30 PM | Lunch | SEEC  |
-| 1:30 PM - 2:45 PM | Summit Activities | SEEC Auritorium |
-| 2:45 PM - 3:00 PM | Break | SEEC |
-| 3:00 PM - 5:00 PM | Summit Activities and Closing| SEEC Auritorium |
-
-**May 29**
-| Time             | Event                        | Location     |
-|------------------|------------------------------|--------------|
-| 8:30 AM - 9:00 AM  |  Light breakfast and registration| SEEC Atrium |
-| 9:00 AM - 10:45 PM  | Summit Activities | SEEC Auritorium  |
-| 10:45 AM - 11:00 AM | Break | SEEC |
-| 11:00 AM - 12:15 PM | Summit Activities | SEEC Auritorium  |
-| 12:15 PM - 1:15 PM | Lunch | SEEC  |
-| 1:15 PM - 2:45 PM | Summit Activities | SEEC Auritorium |
-| 2:45 PM - 3:00 PM | Break | SEEC |
-| 3:00 PM - 5:00 PM | Summit Activities and Closing| SEEC Auritorium |
-
-**May 30**
-| Time             | Event                        | Location     |
-|------------------|------------------------------|--------------|
-| 8:30 AM - 9:00 AM  |  Light breakfast and registration| SEEC Atrium |
-| 9:00 AM - 10:45 PM  | Summit Activities | SEEC Auritorium  |
-| 10:45 AM - 11:00 AM | Break | SEEC |
-| 11:00 AM - 12:00 PM | Summit Activities and closing | SEEC Auritorium  |
-
 
 ## Venue Information
 The Innovation Summit will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
