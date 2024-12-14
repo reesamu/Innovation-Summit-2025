@@ -26,6 +26,8 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 - **Hands-On Learning and Strategy Development:** Participate in workshops and discussions aimed at developing **data-informed strategies** for addressing environmental transformations—focused on science for adaptive management, policy, and sustainable practices.
 - **Cultural Intelligence & Ethical Open Science:** Gain deeper insights into **cultural intelligence**, **ethical science practices**, and leadership in the rapidly evolving field of **environmental data science**.
 
+![tipping](assets/esiil_content/globe_tipping.png)
+
 ## What to Expect at the Summit
 The Summit will take the form of an **‘unconference’**, a flexible and interactive event designed to foster **collaboration and innovation**. Attendees are encouraged to participate in discussions, workgroups, and brainstorming sessions centered around the themes that interest them most. The format encourages **co-creation** of solutions, with ample opportunities for spontaneous interactions and cross-disciplinary teamwork.
 
