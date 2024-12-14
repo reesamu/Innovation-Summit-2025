@@ -1,4 +1,4 @@
-![header](assets/esiil_content/Google form Headers (14).png)
+![header](assets/esiil_content/Headers.png)
 
 !!! Success "Almost here!"
 
