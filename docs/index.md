@@ -1,6 +1,4 @@
-![](./assets/esiil_content/Summit_Header.png)
-
-# Environmental Tipping Points and Transformations 
+![](assets/esiil_content/Google form Headers (14).png)
 
 !!! Success "Almost here!"
 
