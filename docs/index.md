@@ -14,11 +14,17 @@ These tipping points—also known as state changes, regime shifts, or type conve
 The 2025 Summit will offer a unique, data-driven opportunity to explore environmental tipping points and transformations through big data. You will work alongside a diverse group of peers to identify and understand the factors driving these changes and advance data-informed strategies for responding to them in ways that are socially and ecologically resilient.
 
 ## Goals
+
 The goals of the 2025 ESIIL Innovation Summit are to: 
 - **Explore big data to understand environmental tipping points and transformations** by identifying data synthesis opportunities and utilizing ESIIL cloud-compute capabilities. 
 - **Promote best practices in ethical, open science** by supporting accessibility and usability of environmental data by all stakeholders. 
 - Champion ethical and equitable practices in environmental science, honoring data sovereignty, addressing bias, and encouraging the responsible use of AI. 
 - **Support diverse and inclusive teams** by establishing collaborations around data-inspired themes across different disciplines, sectors, career stages, backgrounds, and ways of knowing.
+
+
+    <img align="right" src="assets/esiil_content/globe_tipping.png" width="400">
+
+    
 
 ## Summit Features
 - **Big Data and Cyberinfrastructure:** Access cutting-edge data analysis tools to explore tipping points including the **ecological and social dynamics** of systems that are undergoing transformation, or are poised to do so.
@@ -26,7 +32,6 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 - **Hands-On Learning and Strategy Development:** Participate in workshops and discussions aimed at developing **data-informed strategies** for addressing environmental transformations—focused on science for adaptive management, policy, and sustainable practices.
 - **Cultural Intelligence & Ethical Open Science:** Gain deeper insights into **cultural intelligence**, **ethical science practices**, and leadership in the rapidly evolving field of **environmental data science**.
 
-![tipping](assets/esiil_content/globe_tipping.png)
 
 ## What to Expect at the Summit
 The Summit will take the form of an **‘unconference’**, a flexible and interactive event designed to foster **collaboration and innovation**. Attendees are encouraged to participate in discussions, workgroups, and brainstorming sessions centered around the themes that interest them most. The format encourages **co-creation** of solutions, with ample opportunities for spontaneous interactions and cross-disciplinary teamwork.
