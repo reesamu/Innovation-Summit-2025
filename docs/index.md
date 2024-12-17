@@ -1,4 +1,4 @@
-![header](assets/esiil_content/header.png)
+![header](assets/esiil_content/header2.png)
 
 !!! Success "Almost here!"
 
