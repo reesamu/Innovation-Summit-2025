@@ -16,10 +16,12 @@ The 2025 Summit will offer a unique, data-driven opportunity to explore environm
 ## Goals
 
 The goals of the 2025 ESIIL Innovation Summit are to: 
+
 - **Explore big data to understand environmental tipping points and transformations** by identifying data synthesis opportunities and utilizing ESIIL cloud-compute capabilities. 
 - **Promote best practices in ethical, open science** by supporting accessibility and usability of environmental data by all stakeholders. 
 - Champion ethical and equitable practices in environmental science, honoring data sovereignty, addressing bias, and encouraging the responsible use of AI. 
 - **Support diverse and inclusive teams** by establishing collaborations around data-inspired themes across different disciplines, sectors, career stages, backgrounds, and ways of knowing.
+
 <img align=center src="assets/esiil_content/globe_tipping.png" width="200">
 
     
