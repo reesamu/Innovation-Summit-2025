@@ -1,9 +1,5 @@
 # Transitioning Workflows to CyVerse: Tips & Tricks
 
-## Forest Carbon Codefest Data Storage
-- **Path:** `~/data-store/data/iplant/home/shared/earthlab/forest_carbon_codefest/`
-- Your team has a subdirectory within the Team_outputs directory.
-
 ## Setup
 1. **CyVerse Account:**
    - Create an account if not already owned.
