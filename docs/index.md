@@ -95,6 +95,8 @@ Click [here](https://seec.colorado.edu/system/pdfs/first_floor.pdf) for a map of
 ### Venue Parking
 Permits are required to park on CU Boulder campus and lot 556 is the nearest to the SEEC building ([Campus Map](https://www.colorado.edu/map)). Here is the link to buy a daily permit ($10) for Parking Lot 556 through CU Parking Services: https://cuboulder.aimsparking.com. You will need to buy a permit for each date you park at the lot. 
 
+![parking](assets/esiil_content/parkingSEEC.png)
+
 ### Health & Safety Resources
 * Campus and Off-Campus Emergencies 911
 * CU Police Department (On-Campus, Non-Emergency) 303-492-6666
