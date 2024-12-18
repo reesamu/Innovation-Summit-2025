@@ -62,11 +62,6 @@ The **2025 ESIIL Innovation Summit** aims to bring together a diverse group of p
 
 **Applications are open!** Please [complete this application](https://docs.google.com/forms/d/e/1FAIpQLSf47NB8AJiEZDWMT9e30YK1mRafUA95A3ejp20HPzetzMhriw/viewform) by **January 31, 2025**.
 
-## Agenda
-
-**Detailed agenda coming soon.**
-We are still developing the agenda for the 2025 ESIIL Summit and will add more information soon. In the meantime, please check out [last year's agenda](https://docs.google.com/document/d/1BXgUkbmGIVD12UDrnMlF9ERXN3jM1GW4/edit?usp=sharing&ouid=116923712774938340817&rtpof=true&sd=true) to get an idea of the types of activities that may occur at the Summit.
-
 ## Venue Information
 The Innovation Summit will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
 The address is 4001 Discovery Dr, Boulder, CO 80303. Click [here](https://seec.colorado.edu/getting-here/directions) for directions to the SEEC Building.
