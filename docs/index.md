@@ -22,7 +22,7 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 - Champion ethical and equitable practices in environmental science, honoring data sovereignty, addressing bias, and encouraging the responsible use of AI. 
 - **Support diverse and inclusive teams** by establishing collaborations around data-inspired themes across different disciplines, sectors, career stages, backgrounds, and ways of knowing.
 
-<img align=center src="assets/esiil_content/globe_tipping.png" width="200">
+<img align=right src="assets/esiil_content/globe_tipping.png" width="200">
 
     
 
