@@ -7,7 +7,7 @@
     University of Colorado Boulder
 
 # Welcome to the 2025 ESIIL Innovation Summit
-The 2025 ESIIL Innovation Summit will focus on environmental tipping points and transformations, bringing together scientists, policymakers, data analysts, and other thought leaders to address some of the most urgent environmental challenges of our time. As multiple drivers of environmental change—such as climate change, land conversions, and altered disturbance regimes—continue to push ecosystems toward critical thresholds, we find ourselves facing environmental transformations that can have profound, often irreversible, impacts.
+The 2025 ESIIL Innovation Summit will focus on **environmental tipping points and transformations**, bringing together scientists, policymakers, data analysts, and other thought leaders to address some of the most urgent environmental challenges of our time. As multiple drivers of environmental change—such as climate change, land conversions, and altered disturbance regimes—continue to push ecosystems toward critical thresholds, we find ourselves facing environmental transformations that can have profound, often irreversible, impacts.
 
 These tipping points—also known as state changes, regime shifts, or type conversions—can occur gradually or suddenly, at varying scales, and significantly alter the ecosystems that sustain life on Earth. Understanding these past and future  transformations, and the social, cultural, and ecological contexts that shape them, is critical for predicting, managing, and mitigating their impacts on both nature and society.
 
