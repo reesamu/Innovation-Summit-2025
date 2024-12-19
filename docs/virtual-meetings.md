@@ -7,7 +7,7 @@ To prepare for the theme and goals of the Summit, all attendees will be invited 
 - Leadership 
 - Cultural intelligence
 - Team science
-- Community and collaboration
+- Community building and collaboration
 
 More details and information coming soon.
 
