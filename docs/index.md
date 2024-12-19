@@ -1,12 +1,12 @@
 ![header](assets/esiil_content/header2.png)
 
-!!!! Success "Almost here!"
+!!! Success "Almost here!"
 
     May 28-30, 2025
 
     University of Colorado Boulder 
     
-    [APPLY HERE](https://docs.google.com/forms/d/e/1FAIpQLSf47NB8AJiEZDWMT9e30YK1mRafUA95A3ejp20HPzetzMhriw/viewform?usp=sf_link) by **January 31, 2025**.
+**Complete [this application](https://docs.google.com/forms/d/e/1FAIpQLSf47NB8AJiEZDWMT9e30YK1mRafUA95A3ejp20HPzetzMhriw/viewform?usp=sf_link) by January 31, 2025**.
 
 # Welcome to the 2025 ESIIL Innovation Summit
 The 2025 ESIIL Innovation Summit will focus on **environmental tipping points and transformations**, bringing together scientists, policymakers, data analysts, and other thought leaders to address some of the most urgent environmental challenges of our time. As multiple drivers of environmental change—such as climate change, land conversions, and altered disturbance regimes—continue to push ecosystems toward critical thresholds, we find ourselves facing environmental transformations that can have profound, often irreversible, impacts.
