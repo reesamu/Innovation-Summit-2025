@@ -31,7 +31,7 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 ## Summit Features
 - **Big Data and Cyberinfrastructure:** Access cutting-edge data analysis tools to explore tipping points including the **ecological and social dynamics** of systems that are undergoing transformation, or are poised to do so.
 - **Collaborative ‘Unconference’ Format:** This in-person Summit features a flexible, participant-driven format that allows attendees to shape their own experience. You will collaborate on projects that most inspire you, while fostering **dynamic interactions** and innovative solutions with others from diverse backgrounds and disciplines.
-- **Hands-On Learning and Strategy Development:** Participate in workshops and discussions aimed at developing **data-informed strategies** for addressing environmental transformations—focused on science for adaptive management, policy, and sustainable practices.
+- **Hands-On Learning and Strategy Development:** Participate in workshops and discussions aimed at developing **data-informed strategies** for addressing environmental transformations—focused on science for adaptive management, policy, and sustainability.
 - **Cultural Intelligence & Ethical Open Science:** Gain deeper insights into **cultural intelligence**, **ethical science practices**, and leadership in the rapidly evolving field of **environmental data science**.
 
 
