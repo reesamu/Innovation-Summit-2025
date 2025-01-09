@@ -116,7 +116,7 @@ Boulder is 5,430 feet in elevation and has a sunny, semi-arid climate. Hydrating
 
 Weather conditions can change rapidly throughout each day and from day to day. Layers are always a good choice.
 
-The average temperature in Boulder in November UPDATE     The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
+The average temperature in Boulder in May for a typical day ranges from a high of 65°F (18°C) to a low of 37°F (3°C). Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
 
 ## Transportation
 
