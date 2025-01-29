@@ -96,11 +96,11 @@ The University of Colorado recognizes all Federal and State protected classes, w
 
 Anyone requested to stop unacceptable behavior is expected to comply immediately.
 
-If there is a clear violation of the code of conduct during an ESIIL event—for example, a meeting is Zoom bombed or a team member is verbally abusing another participant during a workshop— ESIIL leaders, facilitators (or their designee) or campus/local police may take any action deemed necessary and appropriate, including expelling the violator, or immediate removal of the violator from any online or in-person event or platform without warning or refund. If such actions are necessary, there will be follow up with the ESIIL Diversity Equity and Inclusion (DEI) team to determine what further action is needed (see Reporting Process and Consequences below).
+If there is a clear violation of the code of conduct during an ESIIL event—for example, a meeting is Zoom bombed or a team member is verbally abusing another participant during a workshop— ESIIL leaders, facilitators (or their designee) or campus/local police may take any action deemed necessary and appropriate, including expelling the violator, or immediate removal of the violator from any online or in-person event or platform without warning or refund. If such actions are necessary, there will be follow up with the ESIIL Access and Cultural Innovation (ACI) team to determine what further action is needed (see Reporting Process and Consequences below).
 
 ## Addressing Behavior Directly
 
-For smaller incidents that might be settled with a brief conversation, you may choose to contact the person in question or set up a (video) conversation to discuss how the behavior affected you. Please use this approach only if you feel comfortable; you do not have to carry the weight of addressing these issues yourself. If you are interested in this option but unsure how to go about it, please contact the ESIIL DEI lead, Susan Sullivan, first—she will have advice on how to make the conversation happen and is available to join you in a conversation as requested.
+For smaller incidents that might be settled with a brief conversation, you may choose to contact the person in question or set up a (video) conversation to discuss how the behavior affected you. Please use this approach only if you feel comfortable; you do not have to carry the weight of addressing these issues yourself. If you are interested in this option but unsure how to go about it, please contact the ESIIL ACI lead, Susan Sullivan, first—she will have advice on how to make the conversation happen and is available to join you in a conversation as requested.
 
 # Reporting Process and Consequences
 
@@ -108,14 +108,14 @@ We take any reports of Code of Conduct violations seriously, and aim to support 
 
 ## Making a Report
 
-If you believe you’re experiencing or have experienced unacceptable behavior that is counter to this code of conduct, or you are witness to this behavior happening to someone else, we encourage you to contact our DEI lead:
+If you believe you’re experiencing or have experienced unacceptable behavior that is counter to this code of conduct, or you are witness to this behavior happening to someone else, we encourage you to contact our ACI lead:
 
 - **Susan Sullivan, CIRES**
   - Email: [susan.sullivan@colorado.edu](mailto:susan.sullivan@colorado.edu)
 
 You may also choose to anonymously report behavior to ESIIL using [this form](#).
 
-The DEI team will keep reports as confidential as possible. However, as mandatory reporters, we have an obligation to report alleged protected class violations to our home institution or to law enforcement.
+The ACI team will keep reports as confidential as possible. However, as mandatory reporters, we have an obligation to report alleged protected class violations to our home institution or to law enforcement.
 
 ### Specifically:
 
@@ -138,7 +138,7 @@ If you want more information about when to report, or how to help someone who ne
 
 # What Happens After a Report Is Filed
 
-After a member of the ESIIL DEI team takes your report, they will (if necessary) consult with the appropriate support people at CU. The ESIIL DEI team will respond with a status update within 5 business days.
+After a member of the ESIIL ACI team takes your report, they will (if necessary) consult with the appropriate support people at CU. The ESIIL ACI team will respond with a status update within 5 business days.
 
 During this time, they, or members of the CU Office of Institutional Equity and Compliance, will:
 
@@ -149,7 +149,7 @@ During this time, they, or members of the CU Office of Institutional Equity and 
 - Determine the follow-up actions for any impacted people and/or the reporter
 - Follow up with the impacted people, including connecting them with support and resources.
 
-## As a result of this process, in minor cases ESIIL DEI may communicate with the respondent to:
+## As a result of this process, in minor cases ESIIL ACI may communicate with the respondent to:
 
 - Explain what happened and the impact of their behavior
 - Offer concrete examples of how to improve their behavior
@@ -173,7 +173,7 @@ In addition to the responses above, ESIIL responses may include but are not limi
 
 Do you need more resources?
 
-Please don’t hesitate to contact the ESIIL DEI lead, Susan Sullivan, if you have questions or
+Please don’t hesitate to contact the ESIIL ACI lead, Susan Sullivan, if you have questions or
 concerns.
 
 The CU Office of Institutional Equity and Compliance is a resource for all of us in navigating this space. They also offer resource materials that can assist you in exploring various topics and skills here.
