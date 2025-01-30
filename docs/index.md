@@ -9,11 +9,11 @@
 **Complete [this application](https://docs.google.com/forms/d/e/1FAIpQLSf47NB8AJiEZDWMT9e30YK1mRafUA95A3ejp20HPzetzMhriw/viewform?usp=sf_link) by January 31, 2025**.
 
 # Welcome to the 2025 ESIIL Innovation Summit
-The 2025 ESIIL Innovation Summit will focus on **environmental tipping points and transformations**, bringing together scientists, policymakers, data analysts, and other thought leaders to address some of the most urgent environmental challenges of our time. As multiple drivers of environmental change—such as climate change, land conversions, and altered disturbance regimes—continue to push ecosystems toward critical thresholds, we find ourselves facing environmental transformations that can have profound, often irreversible, impacts.
+The 2025 ESIIL Innovation Summit will focus on **environmental tipping points and transformations**, bringing together scientists, managers, data analysts, and other thought leaders to address environmental challenges. 
 
-These tipping points—also known as state changes, regime shifts, or type conversions—can occur gradually or suddenly, at varying scales, and significantly alter the ecosystems that sustain life on Earth. Understanding these past and future  transformations, and the social, cultural, and ecological contexts that shape them, is critical for predicting, managing, and mitigating their impacts on both nature and society.
+Environmental tipping points—also known as state changes, regime shifts, or type conversions—can occur gradually or suddenly, at varying scales, and significantly alter the ecosystems that sustain life on Earth. Understanding these past and future  transformations and ecological contexts that shape them, is critical for predicting, managing, and mitigating their impacts on both nature and society.
 
-The 2025 Summit will offer a unique, data-driven opportunity to explore environmental tipping points and transformations through big data. You will work alongside a diverse group of peers to identify and understand the factors driving these changes and advance data-informed strategies for responding to them in ways that are socially and ecologically resilient.
+The 2025 Summit will offer a unique, data-driven opportunity to explore environmental tipping points and transformations through big data. You will work alongside a collabortive group of peers to identify and understand the factors driving these changes and advance data-informed strategies for responding to them.
 
 ## Goals
 
@@ -21,8 +21,8 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 
 - **Explore big data to understand environmental tipping points and transformations** by identifying data synthesis opportunities and utilizing ESIIL cloud-compute capabilities. 
 - **Promote best practices in ethical, open science** by supporting accessibility and usability of environmental data by all stakeholders. 
-- **Champion ethical and equitable practices** in environmental science by honoring data sovereignty, addressing bias, and encouraging the responsible use of AI. 
-- **Support diverse and inclusive teams** by establishing collaborations around data-inspired themes across different disciplines, sectors, career stages, backgrounds, and ways of knowing.
+- **Champion ethical practices** in environmental science, and encourage the responsible use of AI. 
+- **Support teams** by establishing collaborations around data-inspired themes across different disciplines, sectors, and career stages.
 
 <img align=right src="assets/esiil_content/globe_tipping.png" width="200">
 
