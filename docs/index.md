@@ -80,7 +80,7 @@ Click [here](https://seec.colorado.edu/system/pdfs/first_floor.pdf) for a map of
 ### Building Resources
 
 * [SEEC Cafe](https://seec.colorado.edu/resources/seec-cafe)
-* All gender restrooms off the North and South Atriums (single stall, ADA) 
+* ADA single stall restrooms off the North and South Atriums 
 * Lactation room [S120](https://seec.colorado.edu/resources/lactation-room) or wherever comfortable
 * Quiet areas
 * Elevators, accessible entrances, and more inclusivity resources on the campus map:  https://www.colorado.edu/map/
