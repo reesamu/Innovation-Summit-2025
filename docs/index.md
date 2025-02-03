@@ -61,7 +61,7 @@ The **2025 ESIIL Innovation Summit** aims to bring together participants passion
 
 **Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event.
 
-## **Applications are open!** 
+## **Application deadline: January 31, 2025** 
 **Join us in 2025** for an innovative, impactful experience at the **ESIIL Innovation Summit**, where we will push the boundaries of knowledge and action to address the pressing challenges of environmental tipping points and transformation.
 
 Please [complete this application](https://docs.google.com/forms/d/e/1FAIpQLSf47NB8AJiEZDWMT9e30YK1mRafUA95A3ejp20HPzetzMhriw/viewform?usp=sf_link) by **January 31, 2025**.
