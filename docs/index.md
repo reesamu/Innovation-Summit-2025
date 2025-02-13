@@ -44,6 +44,8 @@ What past attendees had to say:
 - “Get ready to work hard and to grow. You’ll meet a lot of great people from diverse backgrounds.”
 - “A highlight of the Summit was the general atmosphere and community. There’s palpable excitement. The unconference format is different from a typical conference, so people don’t always know what to expect—but that’s part of what makes it so engaging.”
 
+![mentimeter](assets/esiil_content/Mentimeter.png)
+
 ## Training Opportunities
 To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. **Virtual opportunities may include:**
 
