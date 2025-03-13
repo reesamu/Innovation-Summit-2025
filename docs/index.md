@@ -1,12 +1,11 @@
-![header](assets/esiil_content/header2.png)
+![header](assets/esiil_content/header.png)
 
 !!! Success "Almost here!"
 
-    May 28-30, 2025
+    September 23-25, 2025
 
     University of Colorado Boulder 
     
-**Complete [this application](https://docs.google.com/forms/d/e/1FAIpQLSf47NB8AJiEZDWMT9e30YK1mRafUA95A3ejp20HPzetzMhriw/viewform?usp=sf_link) by January 31, 2025**.
 
 # Welcome to the 2025 ESIIL Innovation Summit
 The 2025 ESIIL Innovation Summit will focus on **environmental tipping points and transformations**, bringing together scientists, managers, data analysts, and other thought leaders to address environmental challenges. 
@@ -57,16 +56,11 @@ To prepare for the theme and goals of the Summit, all attendees will be invited 
 * Community building and collaboration
 
 ## Who Should Attend? 
-The **2025 ESIIL Innovation Summit** aims to bring together participants passionate about leveraging big data to enhance our understanding of environmental tipping points and transformations. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of ESIIL’s cyberinfrastructure, and fostering innovative solutions through collaborative teams. Whether your expertise lies in environmental science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. Applications are due by January 31, 2025, and participants will be selected through a review process.
+The **2025 ESIIL Innovation Summit** aims to bring together participants passionate about leveraging big data to enhance our understanding of environmental tipping points and transformations. The Summit will focus on identifying opportunities for data synthesis, exploring the cutting-edge capabilities of ESIIL’s cyberinfrastructure, and fostering innovative solutions through collaborative teams. Whether your expertise lies in environmental science, management, or community engagement, this event will offer valuable insights and the chance to collaborate with others from a variety of sectors. We encourage applications from individuals across all career stages and disciplines. 
 
-**Registration:** Accepted applicants will be notified via email by mid-February and will be required to confirm their attendance to the event within one week of acceptance. 
+**Registration:** Accepted applicants will be sent a confirmation from to confirm their attendance.
 
-**Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event.
-
-## **Application deadline: January 31, 2025** 
-**Join us in 2025** for an innovative, impactful experience at the **ESIIL Innovation Summit**, where we will push the boundaries of knowledge and action to address the pressing challenges of environmental tipping points and transformation.
-
-Please [complete this application](https://docs.google.com/forms/d/e/1FAIpQLSf47NB8AJiEZDWMT9e30YK1mRafUA95A3ejp20HPzetzMhriw/viewform?usp=sf_link) by **January 31, 2025**.
+**Finances:** There is no registration fee for accepted participants to attend the Innovation Summit or associated trainings and workshops. A limited number of travel awards of up to $1,200 are available to help defray airfare/mileage and accommodation costs. Simple snacks, beverages, and lunch will be provided during the event. Please understand that there is a lot of uncertainty about the federal budget which may affect NSF and ESIIL’s ability to support travel to the Summit, so please do not book any travel at this time.
 
 ## Venue Information
 The Innovation Summit will be held at the University of Colorado Boulder East Campus [SEEC Building](https://seec.colorado.edu/home), **C120 Auditorium**. 
@@ -118,7 +112,7 @@ Boulder is 5,430 feet in elevation and has a sunny, semi-arid climate. Hydrating
 
 Weather conditions can change rapidly throughout each day and from day to day. Layers are always a good choice.
 
-The average temperature in Boulder in May for a typical day ranges from a high of 65°F (18°C) to a low of 37°F (3°C). Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
+The average temperature in Boulder in May for a typical day ranges from a high of 78°F (25.6°C) to a low of 44°F (6.7°C). Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
 
 ## Transportation
 
