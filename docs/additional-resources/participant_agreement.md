@@ -4,7 +4,7 @@ This Participant Agreement (“Agreement”) is a contract between you (“You/Y
 
 In consideration of Your participation in the 2024 ESIIL Innovation Summit, the sufficiency of which is hereby acknowledged, You agree as follows:
 
-Environmental Data Science Innovation & Inclusion Lab (“ESIIL”) is a National Science Foundation (“NSF”) funded data synthesis center led by the University. Earth Lab is part of the Cooperative Institute for Research in Environmental Sciences (CIRES) specializing in data-intensive open, reproducible environmental science. ESIIL will host the Summit in person from May 13 through May 16, 2024.
+Environmental Data Science Innovation & Impact Lab (“ESIIL”) is a National Science Foundation (“NSF”) funded data synthesis center led by the University. Earth Lab is part of the Cooperative Institute for Research in Environmental Sciences (CIRES) specializing in data-intensive open, reproducible environmental science. ESIIL will host the Summit in person from September 23 to 25, 2024.
 
 ## Innovation Summit Description
 
