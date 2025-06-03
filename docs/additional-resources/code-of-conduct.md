@@ -1,6 +1,6 @@
 # Code of Conduct and Respectful Inclusive Collaboration Guidelines
 
-Environmental Data Science Innovation & Inclusion Lab (ESIIL) is committed to building, maintaining, and fostering an inclusive, kind, collaborative, and diverse transdisciplinary environmental data science community, whose members feel welcome, supported, and safe to contribute ideas and knowledge.
+Environmental Data Science Innovation & Impact Lab (ESIIL) is committed to building, maintaining, and fostering an inclusive, kind, collaborative, and diverse transdisciplinary environmental data science community, whose members feel welcome, supported, and safe to contribute ideas and knowledge.
 
 The 2024 ESIIL Innovation Summit will follow all aspects of the ESIIL Code of Conduct (below).
 
