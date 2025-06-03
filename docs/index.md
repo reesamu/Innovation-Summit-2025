@@ -112,7 +112,7 @@ Boulder is 5,430 feet in elevation and has a sunny, semi-arid climate. Hydrating
 
 Weather conditions can change rapidly throughout each day and from day to day. Layers are always a good choice.
 
-The average temperature in Boulder in May for a typical day ranges from a high of 78°F (25.6°C) to a low of 44°F (6.7°C). Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
+The average temperature in Boulder in September for a typical day ranges from a high of 75.4°F (24.1°C) to a low of 48.3°F (9°C). Some would describe the temperature to be moderately chilly. The general area may also feel breezy. The sun is strong in Boulder, so please bring sunscreen, sunglasses, and a hat. There are many trails near Boulder, so hiking or running shoes and a set of workout clothes can help get you outside during your stay.
 
 ## Transportation
 
