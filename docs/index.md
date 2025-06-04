@@ -12,7 +12,7 @@ The 2025 ESIIL Innovation Summit will focus on **environmental tipping points an
 
 Environmental tipping points—also known as state changes, regime shifts, or type conversions—can occur gradually or suddenly, at varying scales, and significantly alter the ecosystems that sustain life on Earth. Understanding these past and future  transformations and ecological contexts that shape them, is critical for predicting, managing, and mitigating their impacts on both nature and society.
 
-The 2025 Summit will offer a unique, data-driven opportunity to explore environmental tipping points and transformations through big data. You will work alongside a collabortive group of peers to identify and understand the factors driving these changes and advance data-informed strategies for responding to them.
+The 2025 Summit will offer a unique, data-driven opportunity to explore environmental tipping points and transformations through big data. You will work alongside a collaborative group of peers to identify and understand the factors driving these changes and advance data-informed strategies for responding to them.
 
 ## Goals
 
