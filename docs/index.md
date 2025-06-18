@@ -106,7 +106,7 @@ We have negotiated rates at two nearby hotels:
 ### [Hilton Garden Inn](https://www.hilton.com/en/hotels/wbubogi-hilton-garden-inn-boulder/)
 * Address: 2701 Canyon Boulevard, Boulder, Colorado, 80302
 * $173/night
-* Booking Link:
+* [Booking Link](https://www.hilton.com/en/attend-my-event/esiil-innovation-summit-attendees/)
 
 ### [Homewood Suites](https://www.hilton.com/en/hotels/boucohw-homewood-suites-boulder/)
 * Address:4950 Baseline Rd., Boulder, Colorado, 80303
