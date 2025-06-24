@@ -1,13 +1,11 @@
 # Pre-Summit Virtual Meetings
 
-To prepare for the theme and goals of the Summit, all attendees will be invited to virtual training and networking opportunities prior to the event. Virtual opportunities may include:
+In preparation for the Summit, we will hold a virtual networking event and training events on collaboration in the cloud, and data science skills.
 
-- Technical trainings in cloud computing (CyVerse and Github)
-- Networking opportunities around the Summit theme
-- Leadership 
-- Cultural intelligence
-- Team science
-- Community building and collaboration
+Please mark your calendars for (calendar invites to follow):
+* Tuesday, August 5th, 1-3 pm MT - Science Jam: Creative Brainstorming to Inspire Innovation
+* Wednesday, September 3rd, 1-3 pm MT - Navigating CyVerse and Github: A Gateway to Advanced Computation for Science
+* Tuesday, September 9th, 1-3 pm MT - Creative Data Exploration in the Cloud: Innovating with Open Science
 
-More details and information coming soon.
-
+Leadership Program Invitees:
+* Tuesday, July 29, 1-2 pm MT - Leadership Program Launch 
