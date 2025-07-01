@@ -137,11 +137,9 @@ A Lyft or Uber or airport taxi are the most expensive option but also the most d
 Transit from the Denver airport to Boulder is quite easy via the **AB1 Boulder/Denver** airport bus. This bus runs at least once an hour during the day, with more frequent trips at popular times. To locate the bus, follow signs in the Denver airport baggage claim area to ‘Train to city,’ which will lead you down an escalator. At the base of the escalator, instead of continuing straight towards the visible train station, turn left and you should see a bus terminal with an RTD ticket machine. Tickets for the AB1 can be purchased for $10. Find the gate for the AB1 / Downtown Boulder line.
 
 **Airport Shuttle Services**
-If you would prefer to book a shuttle to/from DIA (Denver International Airport) & Boulder, there are three options:
+If you would prefer to book a shuttle to/from DIA (Denver International Airport) & Boulder:
 
-* Green Ride Boulder: www.greenrideboulder.com 303-997-0238
 * SuperShuttle: www.supershuttle.com 800-258-3826
-* Eight Black Shuttle: [https://eightblackairportshuttle.com](https://eightblackairportshuttle.com/cu-esiil-cires/) 720-223-5474
 
 **Car Rentals**
 There are a number of rental car agencies located at the Denver International Airport:
