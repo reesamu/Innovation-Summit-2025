@@ -102,7 +102,7 @@ Permits are required to park on CU Boulder campus and lot 556 is the nearest to 
 Access wireless service on campus by selecting UCB Guest Wireless from your available Wi-Fi network options and accepting the terms and conditions upon opening your web browser. You will be prompted to re-accept these terms and conditions periodically. If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
 ## Hotels
-We have negotiated rates at two nearby hotels:
+We have negotiated rates at two nearby hotels. Please **book by August 22nd** to receive this rate:
 ### [Hilton Garden Inn](https://www.hilton.com/en/hotels/wbubogi-hilton-garden-inn-boulder/)
 * Address: 2701 Canyon Boulevard, Boulder, Colorado, 80302
 * $173/night
