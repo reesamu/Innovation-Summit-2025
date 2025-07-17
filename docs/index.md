@@ -25,7 +25,24 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 
 <img align=right src="assets/esiil_content/globe_tipping.png" width="200">
 
-    
+## Agenda
+**Pre-Summit Trainings**
+
+* Tuesday, August 5th, 1-3 pm MT - Science Jam: Creative Brainstorming to Inspire Innovation
+
+* Wednesday, September 3rd, 1-3 pm MT - Navigating CyVerse and Github: A Gateway to Advanced Computation for Science
+
+* Tuesday, September 9th, 1-3 pm MT - Creative Data Exploration in the Cloud: Innovating with Open Science
+
+**2025 ESIIL Innovation Summit**
+
+September 22: 1-4 pm MT - Leadership workshop (by invite), Early Registration and Optional Activities
+
+September 23: 9am-5pm MT
+
+Septmeber 24: 9am-5pm MT
+
+September 25: 9am-12pm MT    
 
 ## Summit Features
 - **Big Data and Cyberinfrastructure:** Access cutting-edge data analysis tools to explore tipping points including the **ecological and social dynamics** of systems that are undergoing transformation, or are poised to do so.
