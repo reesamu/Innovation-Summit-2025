@@ -38,7 +38,9 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 
 September 22: 1-4 pm MT - Leadership workshop (by invite), Early Registration and Optional Activities
 
-September 23: 9am-5pm MT
+September 23: 
+8:30am-9am MT Registration, Light breakfast provided
+9am-5pm MT Summit
 
 Septmeber 24: 9am-5pm MT
 
