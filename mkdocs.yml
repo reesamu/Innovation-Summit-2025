@@ -15,7 +15,6 @@ nav:
   - Home: index.md
   - Pre-Summit Trainings and Reading List: 
        - Overview: virtual-meetings.md
-       - Reading List: readinglist.md
        - CyVerse and Github:
            - Markdown: resources/markdown_basics.md
            - Github: resources/github_basics.md
@@ -29,10 +28,11 @@ nav:
            - Shutdown procedure: resources/cyverse_shutdown.md
   - Agenda: agenda.md
   - Additional resources:
-       - Code of Conduct: additional-resources/code-of-conduct.md
-       - Participant Agreement: additional-resources/participant_agreement.md
+       - Reading List: readinglist.md
        - Cyverse hacks: additional-resources/cyverse_hacks.md
        - Useful links: additional-resources/useful_links.md
+       - Code of Conduct: additional-resources/code-of-conduct.md
+       - Participant Agreement: additional-resources/participant_agreement.md
 
 # Configuration
 theme:
