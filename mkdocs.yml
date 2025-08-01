@@ -15,6 +15,7 @@ nav:
   - Home: index.md
   - Pre-Summit Trainings: 
        - Overview: virtual-meetings.md
+       - Science Jam: science_jam.md
        - CyVerse and Github:
            - Markdown: resources/markdown_basics.md
            - Github: resources/github_basics.md
