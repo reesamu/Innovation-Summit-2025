@@ -1,14 +1,12 @@
 # Pre-Summit Virtual Meetings
 
-In preparation for the Summit, we will hold a virtual networking event and training events on collaboration in the cloud, and data science skills.
+Please join us for our pre-Summit training events:
 
-## Overview:
+**Science Jam: Creative Brainstorming to Inspire Innovation** - Tuesday, August 5th, 1-3 pm MT 
 
-Tuesday, August 5th, 1-3 pm MT - Science Jam: Creative Brainstorming to Inspire Innovation
+**Navigating CyVerse and Github: A Gateway to Advanced Computation for Science** - Wednesday, September 3rd, 1-3 pm MT  
 
-Wednesday, September 3rd, 1-3 pm MT - Navigating CyVerse and Github: A Gateway to Advanced Computation for Science
-
-Tuesday, September 9th, 1-3 pm MT - Creative Data Exploration in the Cloud: Innovating with Open Science
+**Creative Data Exploration in the Cloud: Innovating with Open Science** - Tuesday, September 9th, 1-3 pm MT 
 
 Haven't received a calendar invite? Please email esiil@colorado.edu to get the Zoom link.
 
