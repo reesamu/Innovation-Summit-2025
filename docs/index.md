@@ -39,16 +39,22 @@ The goals of the 2025 ESIIL Innovation Summit are to:
 September 22: 1-4 pm MT - Leadership workshop (by invite), Early Registration and Optional Activities
 
 September 23: 
-* 8:30am-9am MT Registration, Light breakfast provided
-* 9am-5pm MT Summit
+
+* 8:30am-9am MT: Registration, Light breakfast provided
+
+* 9am-5pm MT: Summit
 
 Septmeber 24: 
-* 8:30am-9am MT Light breakfast provided
-* 9am-5pm MT Summit
+
+* 8:30am-9am MT: Light breakfast provided
   
-September 25: 9am-12pm MT    
-* 8:30am-9am MT Light breakfast provided
-* 9am-12pm MT Summit
+* 9am-5pm MT: Summit
+  
+September 25: 
+
+* 8:30am-9am MT: Light breakfast provided
+  
+* 9am-12pm MT: Summit
 
 ## Summit Features
 - **Big Data and Cyberinfrastructure:** Access cutting-edge data analysis tools to explore tipping points including the **ecological and social dynamics** of systems that are undergoing transformation, or are poised to do so.
