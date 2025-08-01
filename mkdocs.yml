@@ -13,14 +13,14 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  - Pre-Summit Virtual Trainings: 
+  - Pre-Summit Virtual Trainings and Reading List: 
        - Overview: virtual-meetings.md
-       - Head in the clouds:
+       - CyVerse and Github:
            - Markdown: resources/markdown_basics.md
            - Github: resources/github_basics.md
            - Cyverse: resources/cyverse_basics.md
            - Cyverse hacks: resources/cyverse_hacks.md
-       - Feet on the ground: 
+       - Data Exploration in the Cloud: 
            - Startup procedure: resources/cyverse_startup.md
            - Move and Save data: data-library/move-data-to-instance.md
            - Stream data: data-library/stac_mount_save.md
