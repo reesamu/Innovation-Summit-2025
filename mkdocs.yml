@@ -13,8 +13,9 @@ copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  - Pre-Summit Virtual Trainings and Reading List: 
+  - Pre-Summit Trainings and Reading List: 
        - Overview: virtual-meetings.md
+       - Reading List: readinglist.md
        - CyVerse and Github:
            - Markdown: resources/markdown_basics.md
            - Github: resources/github_basics.md
