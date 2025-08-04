@@ -10,6 +10,8 @@ Please join us for our pre-Summit training events:
 
 Haven't received a calendar invite? Please email esiil@colorado.edu to get the Zoom link.
 
+**Recordings will be posted here after each training.**
+
 ## Leadership Program Invitees:
 
 Tuesday, July 29, 1-2 pm MT - Leadership Program Launch ✅
