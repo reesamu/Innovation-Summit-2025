@@ -16,6 +16,7 @@
 During the Summit, you will have the opportunity to dive into relevant data to contribute to product, such as:
 1. Co-author publications on new methods, syntheses, or perspectives
 2. Co‑develop grant proposals
-3. Create resources: educational resources, data products, or workflows that advance open science
+3.  Create resources: educational resources, data products, or workflows that advance open science
 4. Formulate strategies to engage stakeholders with tools, guidelines, or applications
+
 
