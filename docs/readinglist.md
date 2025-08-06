@@ -11,5 +11,7 @@ Here is a list of suggested articles to read as you start to explore ideas withi
 
 **RAD framework for ecological transformation:** [Navigating Ecological Transformation: Resist–Accept–Direct as a Path to a New Resource Management Paradigm](https://academic.oup.com/bioscience/article/72/1/16/6429752?login=false) (Schuurman et al. 2022)
 
+**Socio-ecological transformations:** [Studying the complexity of change: toward an analytical framework for understanding deliberate social-ecological transformations](https://www.jstor.org/stable/26269689?casa_token=9OM62wJkF-UAAAAA%3AhGGXt0qp00QjQxkYCiHCCvC9cptqi7M8IZ0AUhpD309zFb4LFhgwHiwh1B3EbhRsCDSDgYrMKgdV3WrxWgo2vzfd86pavkxwKfTVysoxD8N29j8ZGb0&seq=1) (Moore et al. 2014)
+
 
 
