@@ -3,6 +3,8 @@
 
 **Goal:** Match people with a topic they are interested in and a product that is exciting to them 🤞🤞
 
+[View Science Jam Recording](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/EaoXm3tJQXNKtfuT739q8-MBUsGtu6KQhdxOacLn4Ncf5w?e=xX8s51)
+
 ## Topics
 1. Defining tipping points, (ecological) collapse, and transformation/regime shift
 2. Understanding environmental drivers and thresholds of tipping points: climate change, fire, drought, land use change, compound disturbances
