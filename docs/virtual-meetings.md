@@ -4,6 +4,8 @@ Please join us for our pre-Summit training events:
 
 **Science Jam: Creative Brainstorming to Inspire Innovation** - Tuesday, August 5th, 1-3 pm MT 
 
+[View Science Jam Recording](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/EaoXm3tJQXNKtfuT739q8-MBUsGtu6KQhdxOacLn4Ncf5w?e=xX8s51)
+
 **Navigating CyVerse and Github: A Gateway to Advanced Computation for Science** - Wednesday, September 3rd, 1-3 pm MT  
 
 **Creative Data Exploration in the Cloud: Innovating with Open Science** - Tuesday, September 9th, 1-3 pm MT 
