@@ -3,7 +3,7 @@
 
 **Goal:** Match people with a topic they are interested in and a product that is exciting to them 🤞🤞
 
-[View Science Jam Recording](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/EaoXm3tJQXNKtfuT739q8-MBUsGtu6KQhdxOacLn4Ncf5w?e=xX8s51)
+[View Science Jam Recording](https://o365coloradoedu.sharepoint.com/:v:/s/CIRES-ESIIL/EaoXm3tJQXNKtfuT739q8-MBUsGtu6KQhdxOacLn4Ncf5w?e=d02pkQ)
 
 ## Topics
 1. Defining tipping points, (ecological) collapse, and transformation/regime shift
