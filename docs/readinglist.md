@@ -9,4 +9,7 @@ Here is a list of suggested articles to read as you start to explore ideas withi
 
 **Aquatic examples:** [Tipping points and multiple drivers in changing aquatic ecosystems: A review of experimental studies](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11978) (Carrier-Belleau et al 2021)
 
-[RAD framework for ecological transformation](https://academic.oup.com/bioscience/article/72/1/16/6429752?login=false) 
+**RAD framework for ecological transformation:** [Navigating Ecological Transformation: Resist–Accept–Direct as a Path to a New Resource Management Paradigm](https://academic.oup.com/bioscience/article/72/1/16/6429752?login=false) (Schuurman et al. 2022)
+
+
+
