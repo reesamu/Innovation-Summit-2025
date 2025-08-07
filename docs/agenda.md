@@ -15,6 +15,8 @@ September 22: 1-4 pm MT - Leadership workshop (by invite), Early Registration an
 
 September 23: 9am-5pm MT
 
+              5:15-7:15pm MT Reception at Boulder Social
+
 Septmeber 24: 9am-5pm MT
 
 September 25: 9am-12pm MT
